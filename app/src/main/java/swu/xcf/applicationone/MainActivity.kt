@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
     private fun login(){
         //登陆
     }
-
+    private  fun load(){
+        //网络数据
+    }
 }
