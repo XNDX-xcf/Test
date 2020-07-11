@@ -14,4 +14,7 @@ class MainActivity : AppCompatActivity() {
     private  fun load(){
         //网络数据
     }
+    private fun updata(){
+        //上传数据
+    }
 }
